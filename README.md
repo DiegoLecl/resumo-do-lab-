@@ -1,2 +1,13 @@
 # resumo-do-lab-
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+
+
+Resumo:
+
+A computação em nuvem representa uma mudança significativa na forma como empresas e usuários consomem recursos de tecnologia. Em vez de investir em grandes estruturas físicas de servidores e datacenters, é possível acessar serviços e ferramentas de forma remota, sob demanda e com pagamento proporcional ao uso. O objetivo desse modelo é oferecer flexibilidade, escalabilidade e economia, permitindo que organizações de diferentes portes adaptem seus recursos tecnológicos de acordo com suas necessidades.
+
+Dentro desse cenário, destacam-se dois modelos principais: a nuvem pública e a nuvem privada. A nuvem pública é caracterizada pelo compartilhamento de infraestrutura entre diversos clientes, sendo oferecida por provedores como a Microsoft Azure. Ela se destaca pela facilidade de contratação, baixos custos iniciais e pela escalabilidade praticamente ilimitada. Entretanto, como desvantagens, apresenta menor controle direto sobre os recursos utilizados e pode gerar preocupações relacionadas à conformidade e segurança de dados. Já a nuvem privada é dedicada a uma única organização, podendo ser hospedada no próprio datacenter da empresa ou em provedores especializados. Esse modelo oferece maior controle, segurança reforçada e possibilidade de personalização, mas exige investimentos mais elevados e geralmente demanda uma equipe técnica para gestão e manutenção. Por essa razão, muitas empresas têm adotado soluções híbridas, que combinam características das nuvens pública e privada, equilibrando custos, escalabilidade e controle.
+
+Outro ponto essencial dentro do estudo de computação em nuvem é a diferença entre CapEx e OpEx. O CapEx (Capital Expenditure) refere-se aos altos investimentos em infraestrutura física, como compra de servidores, construção de datacenters e aquisição de equipamentos, sendo característico do modelo tradicional de TI. Já o OpEx (Operational Expenditure) é o formato predominante na nuvem, baseado em despesas operacionais. Nesse caso, não há a necessidade de grandes investimentos iniciais, pois o pagamento é feito conforme o consumo, o que torna os custos mais previsíveis e permite maior flexibilidade. Um exemplo prático é o uso de máquinas virtuais no Azure, em que a cobrança é feita pelo tempo de utilização.
+
+Em resumo, a computação em nuvem redefine a forma de estruturar a tecnologia dentro das organizações, substituindo grandes investimentos iniciais por um modelo mais dinâmico, baseado no consumo. Essa abordagem amplia a capacidade de inovação, aumenta a competitividade e possibilita que empresas se adaptem rapidamente às mudanças do mercado.
